@@ -1,0 +1,2 @@
+# Rocker-Bootstrap-5-Admin-Dashboard-Template
+ Rocker admin has based on the bootstrap 5 frameworks. It is a powerful and developer-friendly admin template. It includes color, light, and dark dashboards. It has a huge collection of UI components with the latest jQuery & bootstrap plugins. It is fully responsive and works with all major web browsers, desktops, and all smartphones. It is useable for building all types of Web applications like custom admin dashboards, eCommerce web applications, cms, or CRM web apps.
